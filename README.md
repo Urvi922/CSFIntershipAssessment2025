@@ -6,9 +6,9 @@ I am Urvi Patel. I have created a web application which uses The Meal DB public 
 
 1. Pull the code from repository to the local machine. 
 2. Open the folder in code editor.
-3. Go to the terminal of the code editor, nagivate to frontend and run 'npm start'.
+3. Go to the terminal of the code editor, nagivate to frontend and first run 'npm i' and then 'npm start'.
 3. Kepp this terminal running and open new terminal in the code editor.
-4. In your new terminal, navigate to backend and run 'npm start'.
+4. In your new terminal, navigate to backend and first run 'npm i' and then 'npm start'.
 5. The web application will run in you open browser. 
 6. Search the meal you want, add a review and checkout reviews of other visitors.
 
